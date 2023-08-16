@@ -58,8 +58,8 @@ if streamlit.button('Get Fruit Load List'):
 
 #adding new table
 
-fruit_choice = streamlit.text_input('What fruit would you like to add?')
-streamlit.write('Thanks for adding', add_my_fruit)
+#fruit_choice = streamlit.text_input('What fruit would you like to add?')
+#streamlit.write('Thanks for adding', add_my_fruit)
 
 
 
